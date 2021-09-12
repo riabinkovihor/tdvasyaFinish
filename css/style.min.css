@@ -1278,6 +1278,7 @@ body.ie ._ibg img {
   transition: all 0.3s ease 0s;
   font-size: 20px;
   color: inherit;
+  border-bottom: 2px solid transparent;
 }
 @media (any-hover: hover) {
   .menu-info__link:hover {
