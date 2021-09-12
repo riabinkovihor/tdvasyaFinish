@@ -1044,6 +1044,9 @@ body.ie ._ibg img {
   width: 35px;
   text-align: center;
 }
+.quantity__total::-webkit-inner-spin-button {
+  display: none;
+}
 
 .delivery-main {
   padding: 0px 0px 5px 0px;
